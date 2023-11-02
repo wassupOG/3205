@@ -5,3 +5,5 @@
 3. Submit the form via clicking "submit" or pressing "enter" and wait for 5 seconds for the server to respond.
 
 The app is deployed at: https://3205.vercel.app/
+
+Stack used: Next.js + TypeScript, TailwindCSS, shadcn/ui
